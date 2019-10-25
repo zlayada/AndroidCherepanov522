@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Логин и пароль</string>
+    <string name="login_text">Логин:</string>
+    <string name="login_text_enter">Введите логин</string>
+    <string name="password_text">Пароль</string>
+    <string name="password_text_enter">Введите пароль</string>
+    <string name="login_btn_text">Войти</string>
+    <string name="reg_btn_text">Зарегистрироваться</string>
+    <string name="error_date">Неверные данные</string>
+    <string name="login_ok">Вы вошли</string>
+    <string name="error_log_pas">Не верный логин или пароль</string>
+    <string name="error_login">Попробуйте еще раз</string>
+    <string name="reg_ok">Вы зарегистрированны</string>
+    <string name="checkbox_text">Сохранить данные во внешнем хранилище</string>
+    <string name="not_ext_storage">Внешнее хранилище не доступно</string>
+    <string name="error_authorization">Авторизация не возможна</string>
+
+</resources>
